@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>学生-双向选择表</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/学生-双向选择表/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-3.2.1.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script src="resources/scripts/axure/jquery.nicescroll.min.js"></script>
+    <script src="data/document.js"></script>
+    <script src="files/学生-双向选择表/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (网站页头) -->
+
+      <!-- Unnamed (动态面板) -->
+      <div id="u135" class="ax_default">
+        <div id="u135_state0" class="panel_state" data-label="已登录" style="">
+          <div id="u135_state0_content" class="panel_state_content">
+
+            <!-- 主页 (组合) -->
+            <div id="u136" class="ax_default" data-label="主页" data-left="0" data-top="0" data-width="51" data-height="40">
+
+              <!-- LOGO (形状) -->
+              <div id="u137" class="ax_default icon" data-label="LOGO">
+                <img id="u137_img" class="img " src="images/登录页面/logo_u14.svg"/>
+                <div id="u137_text" class="text " style="display:none; visibility: hidden">
+                  <p></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (图像热区) -->
+              <div id="u138" class="ax_default">
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u139" class="ax_default primary_button">
+              <div id="u139_div" class=""></div>
+              <div id="u139_text" class="text ">
+                <p><span>登出</span></p>
+              </div>
+            </div>
+
+            <!-- 暨大主页 (图像) -->
+            <div id="u140" class="ax_default image" data-label="暨大主页">
+              <img id="u140_img" class="img " src="images/登录页面/暨大主页_u17.png"/>
+              <div id="u140_text" class="text " style="display:none; visibility: hidden">
+                <p></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="u134" style="display:none; visibility:hidden;"></div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u141" class="ax_default" data-left="259" data-top="120" data-width="660" data-height="200">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u142" class="ax_default box_3">
+          <div id="u142_div" class=""></div>
+          <div id="u142_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u143" class="ax_default box_1">
+          <div id="u143_div" class=""></div>
+          <div id="u143_text" class="text ">
+            <p><span>指导教师：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u144" class="ax_default box_1">
+          <div id="u144_div" class=""></div>
+          <div id="u144_text" class="text ">
+            <p><span>审核状态：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u145" class="ax_default box_1">
+          <div id="u145_div" class=""></div>
+          <div id="u145_text" class="text ">
+            <p><span>题目类型：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u146" class="ax_default box_1">
+          <div id="u146_div" class=""></div>
+          <div id="u146_text" class="text ">
+            <p><span>2021.9.20</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u147" class="ax_default box_1">
+          <div id="u147_div" class=""></div>
+          <div id="u147_text" class="text ">
+            <p><span>韩梅梅</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u148" class="ax_default box_1">
+          <div id="u148_div" class=""></div>
+          <div id="u148_text" class="text ">
+            <p><span>审核中</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u149" class="ax_default box_1">
+          <div id="u149_div" class=""></div>
+          <div id="u149_text" class="text ">
+            <p><span>应用研究</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u150" class="ax_default box_1">
+          <div id="u150_div" class=""></div>
+          <div id="u150_text" class="text ">
+            <p><span>申报时间：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u151" class="ax_default box_1">
+          <div id="u151_div" class=""></div>
+          <div id="u151_text" class="text ">
+            <p><span>已选题目：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u152" class="ax_default box_1">
+          <div id="u152_div" class=""></div>
+          <div id="u152_text" class="text ">
+            <p><span>基于线条预测的图像修复算法</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u153" class="ax_default" data-left="259" data-top="390" data-width="660" data-height="200">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u154" class="ax_default box_3">
+          <div id="u154_div" class=""></div>
+          <div id="u154_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u155" class="ax_default box_1">
+          <div id="u155_div" class=""></div>
+          <div id="u155_text" class="text ">
+            <p><span>姓名：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u156" class="ax_default box_1">
+          <div id="u156_div" class=""></div>
+          <div id="u156_text" class="text ">
+            <p><span>王红</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u157" class="ax_default box_1">
+          <div id="u157_div" class=""></div>
+          <div id="u157_text" class="text ">
+            <p><span>专业：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u158" class="ax_default box_1">
+          <div id="u158_div" class=""></div>
+          <div id="u158_text" class="text ">
+            <p><span>软件工程</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u159" class="ax_default box_1">
+          <div id="u159_div" class=""></div>
+          <div id="u159_text" class="text ">
+            <p><span>平均绩点：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u160" class="ax_default box_1">
+          <div id="u160_div" class=""></div>
+          <div id="u160_text" class="text ">
+            <p><span>3.8</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u161" class="ax_default box_1">
+          <div id="u161_div" class=""></div>
+          <div id="u161_text" class="text ">
+            <p><span>学号：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u162" class="ax_default box_1">
+          <div id="u162_div" class=""></div>
+          <div id="u162_text" class="text ">
+            <p><span>2018******</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u163" class="ax_default box_1">
+          <div id="u163_div" class=""></div>
+          <div id="u163_text" class="text ">
+            <p><span>当前阶段：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u164" class="ax_default box_1">
+          <div id="u164_div" class=""></div>
+          <div id="u164_text" class="text ">
+            <p><span>师生互选</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- 按钮 (矩形) -->
+      <div id="u165" class="ax_default primary_button" data-label="按钮">
+        <div id="u165_div" class=""></div>
+        <div id="u165_text" class="text ">
+          <p><span>返回</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u166" class="ax_default" data-left="259" data-top="71" data-width="124" data-height="29">
+
+        <!-- Unnamed (形状) -->
+        <div id="u167" class="ax_default box_3">
+          <img id="u167_img" class="img " src="images/学生-选题申请/u132.svg"/>
+          <div id="u167_text" class="text ">
+            <p><span>选题详情</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水滴) -->
+        <div id="u168" class="ax_default marker">
+          <img id="u168_img" class="img " src="images/主页（学生）/u96.svg"/>
+          <div id="u168_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u169" class="ax_default" data-left="259" data-top="341" data-width="124" data-height="29">
+
+        <!-- Unnamed (形状) -->
+        <div id="u170" class="ax_default box_3">
+          <img id="u170_img" class="img " src="images/学生-选题申请/u132.svg"/>
+          <div id="u170_text" class="text ">
+            <p><span>个人信息</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水滴) -->
+        <div id="u171" class="ax_default marker">
+          <img id="u171_img" class="img " src="images/主页（学生）/u96.svg"/>
+          <div id="u171_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="resources/scripts/axure/ios.js"></script>
+  </body>
+</html>
