@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>修改密码</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/修改密码/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-3.2.1.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script src="resources/scripts/axure/jquery.nicescroll.min.js"></script>
+    <script src="data/document.js"></script>
+    <script src="files/修改密码/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (组合) -->
+      <div id="u524" class="ax_default" data-left="280" data-top="124" data-width="680" data-height="336">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u525" class="ax_default box_3">
+          <div id="u525_div" class=""></div>
+          <div id="u525_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (文本框(单行)) -->
+        <div id="u526" class="ax_default text_field">
+          <div id="u526_div" class=""></div>
+          <input id="u526_input" type="text" value="" class="u526_input"/>
+        </div>
+
+        <!-- Unnamed (文本框(单行)) -->
+        <div id="u527" class="ax_default text_field">
+          <div id="u527_div" class=""></div>
+          <input id="u527_input" type="text" value="" class="u527_input"/>
+        </div>
+
+        <!-- 按钮 (矩形) -->
+        <div id="u528" class="ax_default primary_button" data-label="按钮">
+          <div id="u528_div" class=""></div>
+          <div id="u528_text" class="text ">
+            <p><span>修改</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u529" class="ax_default box_1">
+          <div id="u529_div" class=""></div>
+          <div id="u529_text" class="text ">
+            <p><span>姓名：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u530" class="ax_default box_1">
+          <div id="u530_div" class=""></div>
+          <div id="u530_text" class="text ">
+            <p><span>韩梅梅</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u531" class="ax_default box_1">
+          <div id="u531_div" class=""></div>
+          <div id="u531_text" class="text ">
+            <p><span>工职号：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u532" class="ax_default box_1">
+          <div id="u532_div" class=""></div>
+          <div id="u532_text" class="text ">
+            <p><span>8576611</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u533" class="ax_default box_1">
+          <div id="u533_div" class=""></div>
+          <div id="u533_text" class="text ">
+            <p><span>当前密码：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u534" class="ax_default box_1">
+          <div id="u534_div" class=""></div>
+          <div id="u534_text" class="text ">
+            <p><span>新的密码：</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u535" class="ax_default" data-left="0" data-top="0" data-width="0" data-height="0">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u536" class="ax_default box_3 ax_default_hidden" selectiongroup="1" style="display:none; visibility: hidden">
+          <div id="u536_div" class=""></div>
+          <div id="u536_text" class="text ">
+            <p><span><br></span></p><p><span>是否确认修改密码？</span></p><p><span><br></span></p>
+          </div>
+        </div>
+
+        <!-- 按钮 (矩形) -->
+        <div id="u537" class="ax_default primary_button ax_default_hidden" data-label="按钮" style="display:none; visibility: hidden">
+          <div id="u537_div" class=""></div>
+          <div id="u537_text" class="text ">
+            <p><span>确认</span></p>
+          </div>
+        </div>
+
+        <!-- 按钮 (矩形) -->
+        <div id="u538" class="ax_default primary_button ax_default_hidden" data-label="按钮" style="display:none; visibility: hidden">
+          <div id="u538_div" class=""></div>
+          <div id="u538_text" class="text ">
+            <p><span>返回</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u539" class="ax_default box_3 ax_default_hidden" selectiongroup="1" style="display:none; visibility: hidden">
+          <div id="u539_div" class=""></div>
+          <div id="u539_text" class="text ">
+            <p><span><br></span></p><p><span>是否确认修改密码？</span></p><p><span><br></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u540" class="ax_default box_3 ax_default_hidden" selectiongroup="1" style="display:none; visibility: hidden">
+          <div id="u540_div" class=""></div>
+          <div id="u540_text" class="text ">
+            <p><span>请再次输入新密码</span></p><p><span><br></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (文本框(单行)) -->
+        <div id="u541" class="ax_default text_field ax_default_hidden" style="display:none; visibility: hidden">
+          <div id="u541_div" class=""></div>
+          <input id="u541_input" type="text" value="" class="u541_input"/>
+        </div>
+
+        <!-- 按钮 (矩形) -->
+        <div id="u542" class="ax_default primary_button ax_default_hidden" data-label="按钮" style="display:none; visibility: hidden">
+          <div id="u542_div" class=""></div>
+          <div id="u542_text" class="text ">
+            <p><span>确认</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u543" class="ax_default box_3 ax_default_hidden" selectiongroup="1" style="display:none; visibility: hidden">
+          <div id="u543_div" class=""></div>
+          <div id="u543_text" class="text ">
+            <p><span><br></span></p><p><span>修改成功</span></p><p><span><br></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u544" class="ax_default box_3 ax_default_hidden" style="display:none; visibility: hidden">
+          <div id="u544_div" class=""></div>
+          <div id="u544_text" class="text ">
+            <p><span>提示</span></p>
+          </div>
+        </div>
+
+        <!-- 按钮 (矩形) -->
+        <div id="u545" class="ax_default primary_button ax_default_hidden" data-label="按钮" style="display:none; visibility: hidden">
+          <div id="u545_div" class=""></div>
+          <div id="u545_text" class="text ">
+            <p><span>返回</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- 按钮 (矩形) -->
+      <div id="u546" class="ax_default primary_button" data-label="按钮">
+        <div id="u546_div" class=""></div>
+        <div id="u546_text" class="text ">
+          <p><span>返回</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u547" class="ax_default" data-left="280" data-top="75" data-width="124" data-height="29">
+
+        <!-- Unnamed (形状) -->
+        <div id="u548" class="ax_default box_3">
+          <img id="u548_img" class="img " src="images/学生-选题申请/u132.svg"/>
+          <div id="u548_text" class="text ">
+            <p><span>修改密码</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水滴) -->
+        <div id="u549" class="ax_default marker">
+          <img id="u549_img" class="img " src="images/主页（学生）/u96.svg"/>
+          <div id="u549_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (网站页头) -->
+
+      <!-- Unnamed (动态面板) -->
+      <div id="u551" class="ax_default">
+        <div id="u551_state0" class="panel_state" data-label="已登录" style="">
+          <div id="u551_state0_content" class="panel_state_content">
+
+            <!-- 主页 (组合) -->
+            <div id="u552" class="ax_default" data-label="主页" data-left="0" data-top="0" data-width="51" data-height="40">
+
+              <!-- LOGO (形状) -->
+              <div id="u553" class="ax_default icon" data-label="LOGO">
+                <img id="u553_img" class="img " src="images/登录页面/logo_u14.svg"/>
+                <div id="u553_text" class="text " style="display:none; visibility: hidden">
+                  <p></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (图像热区) -->
+              <div id="u554" class="ax_default">
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u555" class="ax_default primary_button">
+              <div id="u555_div" class=""></div>
+              <div id="u555_text" class="text ">
+                <p><span>登出</span></p>
+              </div>
+            </div>
+
+            <!-- 暨大主页 (图像) -->
+            <div id="u556" class="ax_default image" data-label="暨大主页">
+              <img id="u556_img" class="img " src="images/登录页面/暨大主页_u17.png"/>
+              <div id="u556_text" class="text " style="display:none; visibility: hidden">
+                <p></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="u550" style="display:none; visibility:hidden;"></div>
+    </div>
+    <script src="resources/scripts/axure/ios.js"></script>
+  </body>
+</html>
